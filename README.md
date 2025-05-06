@@ -1,6 +1,10 @@
 # Pre-Summer-Camp-Exam-Problem-2
 It's the answer from AI in the Pre-Summer-Camp Exam Problem 2
-The picture is the screenshot of the output by Gemini,but unfortunately, due to webpage format and other reasons, it is difficult to fully screenshot Gemini's answers. Therefore, I have exported the answers to AI_answer.docx and attached it to the public resource library. The following is the content of the it:
+The picture is the screenshot of the output by Gemini,but unfortunately, due to webpage format and other reasons, it is difficult to fully screenshot Gemini's answers. Therefore, I have exported the answers to AI_answer.docx and attached it to the public resource library. 
+The following is the screenshot:
+!(screenshot.jpeg,"screenshot")
+
+The following is the content of the it:
 
 ''Advantages of the COMB Macro in the COMB-MCM Paper Over General Compute-in-Memory Macros
 1. Introduction: The Evolution of Compute-in-Memory Architectures
