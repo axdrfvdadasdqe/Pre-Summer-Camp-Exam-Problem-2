@@ -92,7 +92,7 @@ The COMB macro, as presented in the "COMB-MCM" paper, offers several compelling 
 
 2.A Survey of Computing-in-Memory Processor: From Circuit to Application - ResearchGate, 访问时间为 五月 2, 2025， <https://www.researchgate.net/publication/376781477_A_Survey_of_Computing-in-Memory_Processor_From_Circuit_to_Application>
 
-3.COMB-MCM: Computing-on-Memory-Boundary NN Processor with Bipolar Bitwise Sparsity Optimization for Scalable Multi-Chiplet-Module Edge Machine Learning | Request PDF - ResearchGate, 访问时间为 五月 2, 2025， <https://www.researchgate.net/publication/359313701_COMB-MCM_Computing-on-Memory->Boundary_NN_Processor_with_Bipolar_Bitwise_Sparsity_Optimization_for_Scalable_Multi-Chiplet-Module_Edge_Machine_Learning
+3.COMB-MCM: Computing-on-Memory-Boundary NN Processor with Bipolar Bitwise Sparsity Optimization for Scalable Multi-Chiplet-Module Edge Machine Learning | Request PDF - ResearchGate, 访问时间为 五月 2, 2025， <https://www.researchgate.net/publication/359313701_COMB-MCM_Computing-on-Memory-Boundary_NN_Processor_with_Bipolar_Bitwise_Sparsity_Optimization_for_Scalable_Multi-Chiplet-Module_Edge_Machine_Learning>
 
 4.Shanghai-based Fudan University releases a concept Computing-In-Memory AI chip - ijiwei, 访问时间为 五月 2, 2025， <https://jw.ijiwei.com/n/809941>
 
